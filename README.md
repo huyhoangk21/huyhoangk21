@@ -10,7 +10,7 @@ I'm an aspiring software developer currently living in **Lincoln, NE**.
 ## Find me here
 
 [<svg src='./globe-svgrepo-com.svg'/>](https://hoangple.me)
-[<svg src='./linkedin-svgrepo-com.svg'/>](https://www.linkedin.com/in/hoangp-le21/)
+[<svg src='./linkedin-svgrepo-com.svg' width=20/>](https://www.linkedin.com/in/hoangp-le21/)
 [<svg src='./twitter-svgrepo-com.svg'/>](https://twitter.com/hoangple21)
 
 ## I code with
