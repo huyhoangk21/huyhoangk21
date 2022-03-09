@@ -9,11 +9,11 @@ I'm an aspiring software developer currently living in **Lincoln, NE**.
 
 ## Find me here
 
-[<img src='./assets/browser-svgrepo-com.svg' width='40'/>](https://hoangple.me)&nbsp;&nbsp;&nbsp;&nbsp;
+[<img src='./assets/browser-website-svgrepo-com.svg' width='40'/>](https://hoangple.me)&nbsp;&nbsp;&nbsp;&nbsp;
 [<img src='./assets/linkedin-svgrepo-com.svg' width='40' />](https://www.linkedin.com/in/hoangp-le21/)&nbsp;&nbsp;&nbsp;&nbsp;
 [<img src='./assets/twitter-svgrepo-com.svg' width='40'/>](https://twitter.com/hoangple21)&nbsp;&nbsp;&nbsp;&nbsp;
 
-## I code with
+## I can do
 
 ---
 
