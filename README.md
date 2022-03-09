@@ -8,7 +8,8 @@ I'm an aspiring software developer currently living in **Lincoln, NE**.
 - ⚡ Fun fact: I have a corgi <span><img src='https://cdn-icons.flaticon.com/png/512/2172/premium/2172036.png?token=exp=1646847856~hmac=76320fa06298c658b3c26ce2aca2a5f7' width='20' alt='corgi'></span>
 
 ## Find me here
-[<img src='./assets/globe-svgrepo-com.svg' width='40'/>](https://hoangple.me)&nbsp;&nbsp;&nbsp;&nbsp;
+
+[<img src='./assets/browser-svgrepo-com.svg' width='40'/>](https://hoangple.me)&nbsp;&nbsp;&nbsp;&nbsp;
 [<img src='./assets/linkedin-svgrepo-com.svg' width='40' />](https://www.linkedin.com/in/hoangp-le21/)&nbsp;&nbsp;&nbsp;&nbsp;
 [<img src='./assets/twitter-svgrepo-com.svg' width='40'/>](https://twitter.com/hoangple21)&nbsp;&nbsp;&nbsp;&nbsp;
 
