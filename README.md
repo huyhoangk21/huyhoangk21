@@ -14,6 +14,18 @@ I'm an aspiring software developer currently living in **Lincoln, NE**.
 [<img src='./assets/twitter-svgrepo-com.svg' width='40'/>](https://twitter.com/hoangple21)&nbsp;&nbsp;&nbsp;&nbsp;
 
 ## I can do
+<img src='./assets/java-svgrepo-com.svg' width='40' style="padding-right:10px;"/>&nbsp;&nbsp;&nbsp;&nbsp;
+<img src='./assets/javascript-svgrepo-com.svg' width='40'/>&nbsp;&nbsp;&nbsp;&nbsp;
+<img src='./assets/typescript-logo-svgrepo-com.svg' width='40'/>&nbsp;&nbsp;&nbsp;&nbsp;
+<img src='./assets/nodejs-svgrepo-com.svg' width='40'/>&nbsp;&nbsp;&nbsp;&nbsp;
+<img src='./assets/graphql-svgrepo-com.svg' width='40'/>&nbsp;&nbsp;&nbsp;&nbsp;
+<img src='./assets/react-svgrepo-com.svg' width='40'/>&nbsp;&nbsp;&nbsp;&nbsp;
+<img src='./assets/spring-icon-svgrepo-com.svg' width='40'/>&nbsp;&nbsp;&nbsp;&nbsp;
+<img src='./assets/mongodb-svgrepo-com.svg' width='40'/>&nbsp;&nbsp;&nbsp;&nbsp;
+<img src='./assets/mysql-svgrepo-com.svg' width='40'/>&nbsp;&nbsp;&nbsp;&nbsp;
+<img src='./assets/postgresql-svgrepo-com.svg' width='40'/>&nbsp;&nbsp;&nbsp;&nbsp;
+<img src='./assets/git-svgrepo-com.svg' width='40'/>&nbsp;&nbsp;&nbsp;&nbsp;
+<img src='./assets/docker-icon-svgrepo-com.svg' width='40'/>&nbsp;&nbsp;&nbsp;&nbsp;
 
 ---
 
