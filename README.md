@@ -9,11 +9,11 @@ I'm an aspiring software developer currently living in **Lincoln, NE**.
 
 ## Find me here
 
-[<img src='./assets/home-svgrepo-com-dark.svg' width='30'/>](https://hoangple.me#gh-dark-mode-only)&nbsp;&nbsp;&nbsp;&nbsp;
+[<img src='./assets/home-svgrepo-com-dark.svg' width='30'/>](https://hoangple.me#gh-dark-mode-only)
 [<img src='./assets/home-svgrepo-com-light.svg' width='30'/>](https://hoangple.me#gh-light-mode-only)&nbsp;&nbsp;&nbsp;&nbsp;
-[<img src='./assets/linkedin-svgrepo-com-dark.svg' width='30' />](https://www.linkedin.com/in/hoangp-le21#gh-dark-mode-only)&nbsp;&nbsp;&nbsp;&nbsp;
+[<img src='./assets/linkedin-svgrepo-com-dark.svg' width='30' />](https://www.linkedin.com/in/hoangp-le21#gh-dark-mode-only)
 [<img src='./assets/linkedin-svgrepo-com-light.svg' width='30' />](https://www.linkedin.com/in/hoangp-le21#gh-light-mode-only)&nbsp;&nbsp;&nbsp;&nbsp;
-[<img src='./assets/twitter-svgrepo-com-dark.svg' width='30'/>](https://twitter.com/hoangple21#gh-dark-mode-only)&nbsp;&nbsp;&nbsp;&nbsp;
+[<img src='./assets/twitter-svgrepo-com-dark.svg' width='30'/>](https://twitter.com/hoangple21#gh-dark-mode-only)
 [<img src='./assets/twitter-svgrepo-com-light.svg' width='30'/>](https://twitter.com/hoangple21#gh-light-mode-only)&nbsp;&nbsp;&nbsp;&nbsp;
 
 
