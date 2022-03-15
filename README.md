@@ -5,7 +5,7 @@ I'm an aspiring software developer currently living in **Lincoln, NE**.
 - 🌱 I’m currently learning Redis.
 - 🤝 I’m looking to collaborate on any open-source software.
 - ✨ 2022 Goals: Write more blog posts and contribute more to open-source projects.
-- ⚡ Fun fact: I have a corgi <span><img src='https://cdn-icons.flaticon.com/png/512/2172/premium/2172036.png?token=exp=1646847856~hmac=76320fa06298c658b3c26ce2aca2a5f7' width='20' alt='corgi'></span>
+- ⚡ Fun fact: I have a corgi.
 
 ## Find me here
 
